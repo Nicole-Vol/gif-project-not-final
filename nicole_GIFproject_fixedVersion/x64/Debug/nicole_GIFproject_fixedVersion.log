@@ -1,0 +1,27 @@
+﻿  linkedList.c
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(14,1): warning C4005: 'TRUE': macro redefinition
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.h(5): message : see previous definition of 'TRUE'
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(81,18): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(99,41): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(99,56): warning C4312: 'type cast': conversion from 'int' to 'Frame *' of greater size
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(100,71): warning C4312: 'type cast': conversion from 'int' to 'char *' of greater size
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(100,71): error C2106: '=': left operand must be l-value
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(118,13): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(132,63): warning C4312: 'type cast': conversion from 'int' to 'FrameNode *' of greater size
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(209,31): warning C4047: 'function': 'FrameNode *' differs in levels of indirection from 'FrameNode **'
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(209,27): warning C4024: 'isFrameNameExists': different types for formal and actual parameter 1
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(211,35): warning C4047: 'function': 'FrameNode **' differs in levels of indirection from 'FrameNode ***'
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(211,30): warning C4024: 'delete_frame_by_name': different types for formal and actual parameter 1
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(256,13): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\linkedList.c(272,21): warning C4047: 'return': 'char' differs in levels of indirection from 'char [11]'
+  prog.c
+c:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\prog.c(63,53): warning C4047: 'function': 'FrameNode **' differs in levels of indirection from 'FrameNode *'
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\prog.c(63,49): warning C4024: 'scan_from_user_and_remove_frame': different types for formal and actual parameter 1
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\prog.c(71,46): warning C4047: 'function': 'FrameNode **' differs in levels of indirection from 'FrameNode *'
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\prog.c(71,42): warning C4024: 'changing_index_of_frames': different types for formal and actual parameter 1
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\prog.c(34,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  view.c
+c:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+C:\Users\Magshimim\source\repos\nicole_GIFproject_fixedVersion\nicole_GIFproject_fixedVersion\view.c(29,11): warning C4013: 'printf' undefined; assuming extern returning int
+  Generating Code...
